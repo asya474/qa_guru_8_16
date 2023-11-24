@@ -1,1 +1,0 @@
-Setting Allure Reports
